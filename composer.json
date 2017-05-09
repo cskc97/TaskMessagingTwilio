@@ -1,0 +1,14 @@
+{
+    "name": "forward/tmtwilio",
+    "description": "Text Messaging of Tasks using Twilio",
+    "require": {
+        "twilio/sdk": "^5.8",
+        "parse/php-sdk": "1.2.*"
+    },
+    "authors": [
+        {
+            "name": "Santhoshkrishnachaitanya Chelikavada",
+            "email": "everythingskc@gmail.com"
+        }
+    ]
+}
